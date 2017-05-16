@@ -1,0 +1,1 @@
+Error: line number 35757 of file /home/groups/simons/Joe/rabt_blast_project_sb/20170515_nonpooled_rabt_build_report/output_nonpooled_rabt_build_fish_blast_report_RUN_20170515_171101/all_data_set_report.bed has 47 fields, but 59 were expected.

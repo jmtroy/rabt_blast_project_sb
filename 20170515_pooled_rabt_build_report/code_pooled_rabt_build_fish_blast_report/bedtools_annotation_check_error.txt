@@ -1,0 +1,1 @@
+Error: line number 24093 of file /home/groups/simons/Joe/rabt_blast_project_sb/20170515_pooled_rabt_build_report/output_pooled_denovo_build_fish_blast_report_RUN_20170515_171713/all_data_set_report.bed has 47 fields, but 59 were expected.

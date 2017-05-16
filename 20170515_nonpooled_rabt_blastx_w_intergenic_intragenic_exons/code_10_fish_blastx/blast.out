@@ -1,0 +1,29 @@
+begin script main_script_blast_combined_gtf.sh at Mon May 15 11:56:15 CDT 2017
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  0.0000   0.2846   0.6650   3.0070   1.9890 480.7000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+exons for D30C_intERgenic, unduplicated
+exons for D30C_intERgenic, unduplicated after repeat filter
+exons for D30C_intERgenic, unduplicated after repeat filter and rpkm > 1 filter
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  0.0000   0.7578   1.4740   2.4890   2.7620 143.4000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+exons for D30C_intRAgenic, unduplicated
+exons for D30C_intRAgenic, unduplicated after repeat filter
+exons for D30C_intRAgenic, unduplicated after repeat filter and rpkm > 1 filter
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  0.0000   0.1968   0.5519   3.0530   1.8530 560.6000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+exons for T30C_intERgenic, unduplicated
+exons for T30C_intERgenic, unduplicated after repeat filter
+exons for T30C_intERgenic, unduplicated after repeat filter and rpkm > 1 filter
+    Min.  1st Qu.   Median     Mean  3rd Qu.     Max. 
+  0.0000   0.6178   1.2950   2.4110   2.5740 232.6000 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+      0       0       0       0       0       0 
+exons for T30C_intRAgenic, unduplicated
+exons for T30C_intRAgenic, unduplicated after repeat filter
+exons for T30C_intRAgenic, unduplicated after repeat filter and rpkm > 1 filter
